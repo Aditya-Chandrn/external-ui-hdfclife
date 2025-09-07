@@ -1,7 +1,7 @@
 ## How to run
 
-1. `npm install` or `npm i` to install all packages
-2. `npm run dev` to run the web app
+1. `yarn` to install all packages
+2. `yarn dev` to run the web app
 
 The app runs on port **3000** and can be accessed using `http://localhost:3000` URL in your local device.
 
